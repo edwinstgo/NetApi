@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rDNF1GQwa3D46FRIx2OtAd4ucI+YeGwDlqc3l2gaHJTNWiVq+5PMuL1vzk8lgzLRyfpraxX2Dc3PiXI/9F7mg==",
+  "success": true,
+  "projectFilePath": "C:\\proyectos net\\PruebaTecnicaAPI\\apiCrud\\CrudAPI\\CrudAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emond\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "C:\\Users\\emond\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\emond\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\emond\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\emond\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\emond\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\emond\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
